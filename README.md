@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alanjohnsonDev
+- 👀 I’m interested in coding with HTML, CSS, and JavaScript.  Using my knowledge to work on special projects that deal with real world problems.
+- 🌱 I’m currently learning JavaScript and ready to start learning React as soon as I feel comfortable with JavaScript.
+- 💞️ I’m looking to collaborate on large projects that deal with real world problems or smaller projects that deal with fun topics such as sports, video games, or Tech.
+- 📫 How to reach me:  You can reach me by email (alanjohnson.dev@gmail.com) or on LinkedIn searching (Alan Johnson) or using this link (https://www.linkedin.com/in/alan-johnson-aa74b915b/)
